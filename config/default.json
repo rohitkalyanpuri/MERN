@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://rohitkp:rohitkp@cluster0-ufyrq.mongodb.net/devconnector?retryWrites=true",
+  "jwtSecret": "mysecrettoken"
+}
