@@ -32,7 +32,7 @@ const Navbar = ({ auth: { isAuthenticated, loading }, logout }) => {
   return (
     <nav className="navbar bg-dark">
       <h1>
-        <Link to="index.html">
+        <Link to="/">
           <i className="fas fa-code" /> DevConnector
         </Link>
       </h1>
